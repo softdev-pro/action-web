@@ -1,0 +1,52 @@
+[
+  {
+    "eventName": "Major League Cricket 2026 - 3rd Match - Seattle Orcas vs Washington Freedom",
+    "status": "LIVE",
+    "streams": [
+      {
+        "id": "24419_willow_hd",
+        "name": "Willow HD",
+        "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
+        "group": "sports",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd",
+        "clearkey": "84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477"
+      }
+    ]
+  },
+  {
+    "eventName": "India vs Afghanistan",
+    "status": "upcoming",
+    "streams": [
+      {
+        "id": "10124_tnt_sports_fhd",
+        "name": "TNT Sports FHD",
+        "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
+        "group": "sports",
+        "url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+        "clearkey": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
+      }
+    ],
+    "time": "5 Hours 3 Minutes"
+  },
+  {
+    "eventName": "England vs New Zealand",
+    "status": "upcoming",
+    "streams": [
+      {
+        "id": "23776_sky_cricket_fhd",
+        "name": "SKY CRICKET FHD",
+        "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
+        "group": "sports",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141"
+      },
+      {
+        "id": "87012_sky_main_event",
+        "name": "SKY MAIN EVENT",
+        "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
+        "group": "sports",
+        "url": "https://tmaxapp.site/skymainevent.m3u8"
+      }
+    ],
+    "time": "7 Hours 3 Minutes"
+  }
+]
