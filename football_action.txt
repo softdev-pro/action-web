@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Germany VS Côte d'Ivoire
+Current Match: Germany VS Côte d'Ivoire (LIVE)
+Next Match: Ecuador VS Curaçao
 Next run: Handled by PM2
-Match time: Sun, Jun 21, 2026, 2:00 AM GMT+6
-Starts in: In 28 minutes
+Match time: Sun, Jun 21, 2026, 6:00 AM GMT+6
+Starts in: In 253 minutes
