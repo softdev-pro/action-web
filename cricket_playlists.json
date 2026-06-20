@@ -4,7 +4,7 @@
     "status": "LIVE",
     "streams": [
       {
-        "id": "24419_willow_hd",
+        "id": "79808_willow_hd",
         "name": "Willow HD",
         "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
         "group": "sports",
@@ -18,7 +18,7 @@
     "status": "upcoming",
     "streams": [
       {
-        "id": "10124_tnt_sports_fhd",
+        "id": "48239_tnt_sports_fhd",
         "name": "TNT Sports FHD",
         "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
         "group": "sports",
@@ -26,27 +26,27 @@
         "clearkey": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11"
       }
     ],
-    "time": "5 Hours 3 Minutes"
+    "time": "4 Hours 57 Minutes"
   },
   {
     "eventName": "England vs New Zealand",
     "status": "upcoming",
     "streams": [
       {
-        "id": "23776_sky_cricket_fhd",
+        "id": "40221_sky_cricket_fhd",
         "name": "SKY CRICKET FHD",
         "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
         "group": "sports",
         "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141"
       },
       {
-        "id": "87012_sky_main_event",
+        "id": "42766_sky_main_event",
         "name": "SKY MAIN EVENT",
         "logo": "https://static.vecteezy.com/system/resources/previews/043/030/242/large_2x/cricket-logo-design-vector.jpg",
         "group": "sports",
         "url": "https://tmaxapp.site/skymainevent.m3u8"
       }
     ],
-    "time": "7 Hours 3 Minutes"
+    "time": "6 Hours 57 Minutes"
   }
 ]
