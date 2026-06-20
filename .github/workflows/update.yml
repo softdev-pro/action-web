@@ -27,4 +27,12 @@ jobs:
           TZ: Asia/Dhaka
         run: node vps_server.js
 
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name "GitHub Actions Automation"
+          git config --global user.email "actions@github.com"
+          git add *.json *.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update streams via GitHub Actions"
+          git push
+
 
