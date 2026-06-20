@@ -24,6 +24,7 @@ jobs:
       - name: Run script
         env:
           DB_URL: ${{ secrets.DB_URL }}
+          TZ: Asia/Dhaka
         run: node vps_server.js
 
 
