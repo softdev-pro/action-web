@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Uruguay VS Cabo Verde
+Current Match: Uruguay VS Cabo Verde (LIVE)
+Next Match: New Zealand VS Egypt
 Next run: Handled by PM2
-Match time: Mon, Jun 22, 2026, 4:00 AM GMT+6
-Starts in: In 28 minutes
+Match time: Mon, Jun 22, 2026, 7:00 AM GMT+6
+Starts in: In 193 minutes
