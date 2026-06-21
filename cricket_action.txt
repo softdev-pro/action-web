@@ -1,3 +1,5 @@
-Current Match: No live match at the moment
-Next Match: No future matches found.
+Current Match: WF VS MINY (LIVE)
+Next Match: BAN VS AUS
 Next run: Handled by PM2
+Match time: Sun, Jun 21, 2026, 2:00 PM GMT+6
+Starts in: In 418 minutes
