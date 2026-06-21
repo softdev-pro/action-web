@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Spain VS Saudi Arabia
+Current Match: Spain VS Saudi Arabia (LIVE)
+Next Match: Belgium VS Iran
 Next run: Handled by PM2
-Match time: Sun, Jun 21, 2026, 10:00 PM GMT+6
-Starts in: In 28 minutes
+Match time: Mon, Jun 22, 2026, 1:00 AM GMT+6
+Starts in: In 177 minutes
