@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: BAN VS AUS
+Current Match: BAN VS AUS (LIVE)
+Next Match: WI-W VS SL-W
 Next run: Handled by PM2
-Match time: Sun, Jun 21, 2026, 2:00 PM GMT+6
-Starts in: In 27 minutes
+Match time: Sun, Jun 21, 2026, 3:30 PM GMT+6
+Starts in: In 102 minutes
