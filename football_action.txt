@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Belgium VS Iran
+Current Match: Belgium VS Iran (LIVE)
+Next Match: Uruguay VS Cabo Verde
 Next run: Handled by PM2
-Match time: Mon, Jun 22, 2026, 1:00 AM GMT+6
-Starts in: In 28 minutes
+Match time: Mon, Jun 22, 2026, 4:00 AM GMT+6
+Starts in: In 193 minutes
