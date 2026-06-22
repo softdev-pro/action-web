@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: France VS Iraq
+Current Match: France VS Iraq (LIVE)
+Next Match: Norway VS Senegal
 Next run: Handled by PM2
-Match time: Tue, Jun 23, 2026, 3:00 AM GMT+6
-Starts in: In 28 minutes
+Match time: Tue, Jun 23, 2026, 6:00 AM GMT+6
+Starts in: In 193 minutes
