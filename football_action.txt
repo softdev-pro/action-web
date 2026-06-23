@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: England VS Ghana
+Current Match: England VS Ghana (LIVE)
+Next Match: Panama VS Croatia
 Next run: Handled by PM2
-Match time: Wed, Jun 24, 2026, 2:00 AM GMT+6
-Starts in: In 27 minutes
+Match time: Wed, Jun 24, 2026, 5:00 AM GMT+6
+Starts in: In 192 minutes
