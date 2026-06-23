@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Portugal VS Uzbekistan
+Current Match: Portugal VS Uzbekistan (LIVE)
+Next Match: England VS Ghana
 Next run: Handled by PM2
-Match time: Tue, Jun 23, 2026, 11:00 PM GMT+6
-Starts in: In 28 minutes
+Match time: Wed, Jun 24, 2026, 2:00 AM GMT+6
+Starts in: In 193 minutes
