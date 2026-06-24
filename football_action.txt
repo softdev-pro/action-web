@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Switzerland VS Canada
+Current Match: BiH VS Qatar (LIVE)
+Next Match: Scotland VS Brazil
 Next run: Handled by PM2
-Match time: Thu, Jun 25, 2026, 1:00 AM GMT+6
-Starts in: In 27 minutes
+Match time: Thu, Jun 25, 2026, 4:00 AM GMT+6
+Starts in: In 192 minutes
