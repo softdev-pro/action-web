@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: ENG-W VS WI-W
+Current Match: ENG-W VS WI-W (LIVE)
+Next Match: ENG VS NZ
 Next run: Handled by PM2
-Match time: Wed, Jun 24, 2026, 11:30 PM GMT+6
-Starts in: In 27 minutes
+Match time: Thu, Jun 25, 2026, 4:00 PM GMT+6
+Starts in: In 1002 minutes
