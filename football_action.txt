@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Czechia VS Mexico
+Current Match: South Africa VS South Korea (LIVE)
+Next Match: Ecuador VS Germany
 Next run: Handled by PM2
-Match time: Thu, Jun 25, 2026, 7:00 AM GMT+6
-Starts in: In 27 minutes
+Match time: Fri, Jun 26, 2026, 2:00 AM GMT+6
+Starts in: In 1151 minutes
