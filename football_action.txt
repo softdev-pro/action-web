@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: South Africa VS Canada
+Current Match: South Africa VS Canada (LIVE)
+Next Match: Brazil VS Japan
 Next run: Handled by PM2
-Match time: Mon, Jun 29, 2026, 1:00 AM GMT+6
-Starts in: In 28 minutes
+Match time: Mon, Jun 29, 2026, 11:00 PM GMT+6
+Starts in: In 1333 minutes
