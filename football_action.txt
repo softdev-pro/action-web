@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: Côte d'Ivoire VS Norway
+Current Match: Côte d'Ivoire VS Norway (LIVE)
+Next Match: France VS Sweden
 Next run: Handled by PM2
-Match time: Tue, Jun 30, 2026, 11:00 PM GMT+6
-Starts in: In 27 minutes
+Match time: Wed, Jul 1, 2026, 3:00 AM GMT+6
+Starts in: In 252 minutes
