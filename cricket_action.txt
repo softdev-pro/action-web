@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: ZIM VS BAN
+Current Match: ZIM VS BAN (LIVE)
+Next Match: AUS-W VS WI-W
 Next run: Handled by PM2
-Match time: Tue, Jun 30, 2026, 1:30 PM GMT+6
-Starts in: In 27 minutes
+Match time: Tue, Jun 30, 2026, 7:30 PM GMT+6
+Starts in: In 372 minutes
