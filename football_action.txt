@@ -2,4 +2,4 @@ Current Match: England VS DR Congo (LIVE)
 Next Match: Belgium VS Senegal
 Next run: Handled by PM2
 Match time: Thu, Jul 2, 2026, 2:00 AM GMT+6
-Starts in: In 206 minutes
+Starts in: In 191 minutes
