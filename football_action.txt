@@ -2,4 +2,4 @@ Current Match: No live match at the moment
 Next Match: England VS DR Congo
 Next run: Handled by PM2
 Match time: Wed, Jul 1, 2026, 10:00 PM GMT+6
-Starts in: In 56 minutes
+Starts in: In 42 minutes
