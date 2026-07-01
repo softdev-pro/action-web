@@ -1,5 +1,5 @@
-Current Match: No live match at the moment
-Next Match: USA VS BiH
+Current Match: USA VS BiH (LIVE)
+Next Match: Spain VS Austria
 Next run: Handled by PM2
-Match time: Thu, Jul 2, 2026, 6:00 AM GMT+6
-Starts in: In 27 minutes
+Match time: Fri, Jul 3, 2026, 1:00 AM GMT+6
+Starts in: In 1152 minutes
